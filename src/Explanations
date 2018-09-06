@@ -1,0 +1,12 @@
+Inheritance is making something, something else like one class is vehicle and the other is car like:
+
+public car extends vehicle{}
+
+
+Compositions are making something part of something else for example:
+
+in class Monitor we have:
+
+private Dimensions dimensions;
+
+so we must create the other class with name Dimensions
