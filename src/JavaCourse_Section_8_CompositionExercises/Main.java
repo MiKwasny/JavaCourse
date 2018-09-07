@@ -1,5 +1,7 @@
 package JavaCourse_Section_8_CompositionExercises;
 
+
+
 public class Main {
 
     public static void main(String[] args) {
@@ -24,12 +26,12 @@ public class Main {
 
         Lamp lamp = new Lamp("Classic", false, 75);
 
-        Bedroom bedRoom = new Bedroom("Tims", wall1, wall2, wall3, wall4, ceiling,bed, lamp);
+        Bedroom bedRoom = new Bedroom("Tims", wall1, wall2, wall3, wall4, ceiling, bed, lamp);
         bedRoom.makeBed();
 
         lamp.turnOn();
 
 
-
     }
 }
+
