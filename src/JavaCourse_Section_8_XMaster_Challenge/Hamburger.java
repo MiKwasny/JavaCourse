@@ -44,6 +44,7 @@ public class Hamburger {
 
     public double itemizeHamburger(){
         double hamburgerPrice = this.price;
+        return 0; // do zmiany
     }
 
 }
