@@ -29,4 +29,17 @@ public class GroceryList {
         groveryList.remove(position);
         System.out.println("the "+theItem+ " has been deleted");
     }
+
+    public String findItem(String searchItem){
+
+        //boolean exists = groveryList.contains(searchItem);
+        int position = groveryList.indexOf(searchItem);
+        if(position>=0){
+            return groveryList.get(position);
+        }
+        else{
+            System.out.println("No such an item");
+        }
+        return null;
+    }
 }
