@@ -27,6 +27,7 @@ class Car {
     }
 
     public String accelerate() {
+
         return getClass().getSimpleName() + " -> accelerated";
     }
 
@@ -107,17 +108,17 @@ public class Main {
         System.out.println(car.accelerate());
         System.out.println(car.brake());
 
-        Honda honda = new Honda(12,"Honda vrc 400");
-        System.out.println(honda.startEngine());
-        System.out.println(honda.accelerate());
-        System.out.println(honda.brake());
+//        Honda honda = new Honda(12,"Honda vrc 400");
+//        System.out.println(honda.startEngine());
+//        System.out.println(honda.accelerate());
+//        System.out.println(honda.brake());
+//
+//        Ford ford = new Ford(12,"Ford Focus MK2");
+//        System.out.println(ford.startEngine());
+//        System.out.println(ford.accelerate());
+//        System.out.println(ford.brake());
 
-        Ford ford = new Ford(12,"Ford Focus MK2");
-        System.out.println(ford.startEngine());
-        System.out.println(ford.accelerate());
-        System.out.println(ford.brake());
-
-        Holden holden = new Holden(12,"Holden superb");
+        Car holden = new Car(12,"Holden superb");
         System.out.println(holden.startEngine());
         System.out.println(holden.accelerate());
         System.out.println(holden.brake());

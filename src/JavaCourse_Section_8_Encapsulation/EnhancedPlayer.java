@@ -9,7 +9,7 @@ public class EnhancedPlayer {
 
         this.name = name;
 
-        if(health <0 && health >= 100){
+        if(health >0 && health >= 100){
             this.health = health;
         }
 

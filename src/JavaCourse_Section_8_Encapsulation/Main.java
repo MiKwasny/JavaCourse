@@ -17,7 +17,7 @@ public class Main {
 //        player.loseHealth(damage);
 //        System.out.println("Remaining health = "+ player.healthRemaining());
 
-        EnhancedPlayer player = new EnhancedPlayer("Skywalker", 60, "Sword");
+        EnhancedPlayer player = new EnhancedPlayer("Skywalker", 999, "Sword");
         player.loseHealth(60);
         System.out.println("Remaining health = "+player.getHealth());
     }
