@@ -9,7 +9,7 @@ public class GroceryList {
     private ArrayList<String> groveryList = new ArrayList<String>();
 
     public void addGroceryItem(String item){
-        groveryList.add("tomato");
+        groveryList.add(item);
     }
 
     public void printList(){
