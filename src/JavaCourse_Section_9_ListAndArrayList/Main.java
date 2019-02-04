@@ -52,4 +52,18 @@ public class Main {
         System.out.println("\t 5 - find");
         System.out.println("\t 6 - quit");
     }
+
+    public static void addItem(){
+        System.out.println("Please enter the groccery item: ");
+        groceryList.addGroceryItem(scanner.nextLine());
+    }
+
+    public static void modifyItem(){
+        System.out.println("Enter item number: ");
+        int itemNo = scanner.nextInt();
+        scanner.nextLine();
+        System.out.println("Enter replacment item" );
+        String newItem = scanner.next();
+        groceryList.modifyItem(itemNo,newItem);
+    }
 }
