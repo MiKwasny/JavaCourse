@@ -1,5 +1,6 @@
 package JavaCourse_Section_9_ListAndArrayList;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
@@ -36,6 +37,8 @@ public class Main {
                     searchItem();
                     break;
                 case 6:
+                    processArrayList();
+                case 7:
                     quit = true;
                     break;
             }
@@ -59,28 +62,38 @@ public class Main {
     }
 
     public static void modifyItem(){
-        System.out.println("Enter item number: ");
-        int itemNo = scanner.nextInt();
-        scanner.nextLine();
-        System.out.println("Enter replacment item" );
-        String newItem = scanner.next();
-        groceryList.modifyItem(itemNo-1,newItem);
+        System.out.println("Enter item name: ");
+        String oldItem = scanner.nextLine();
+        System.out.println("Enter replacement item" );
+        String newItem = scanner.nextLine();
+        groceryList.modifyItem(oldItem,newItem);
     }
 
     public static void removeItem(){
-        System.out.println("Enter item number to remove" );
-        int itemNo = scanner.nextInt();
-        groceryList.removeItem(itemNo-1);
+        System.out.println("Enter item name to remove" );
+        scanner.nextLine();
+        String itemName = scanner.next();
+        groceryList.removeItem(itemName);
     }
 
     public static void searchItem(){
-        System.out.println("Enter item number to search" );
+        System.out.println("Enter item name to search" );
+        scanner.nextLine();
         String itemName = scanner.nextLine();
-        if(groceryList.findItem(itemName) != null){
+        if(groceryList.onFile(itemName)){
             System.out.println("Found "+ itemName);
         }else{
             System.out.println("Item not found");
         }
 
+    }
+    public static void processArrayList(){
+        ArrayList newArray = new ArrayList<>();
+        newArray.addAll(groceryList.getGroveryList());
+
+        ArrayList<String> nextArray = new ArrayList<>(groceryList.getGroveryList());
+
+        String[] myArray = new String[groceryList.getGroveryList().size()];
+        myArray = groceryList.getGroveryList().toArray(myArray);
     }
 }

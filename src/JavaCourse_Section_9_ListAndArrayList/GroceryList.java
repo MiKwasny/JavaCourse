@@ -8,6 +8,10 @@ public class GroceryList {
 
     private ArrayList<String> groveryList = new ArrayList<String>();
 
+    public ArrayList<String> getGroveryList() {
+        return groveryList;
+    }
+
     public void addGroceryItem(String item){
         groveryList.add(item);
     }
@@ -19,27 +23,40 @@ public class GroceryList {
         }
     }
 
-    public void modifyItem(int position, String newitem){
-        groveryList.set(position, newitem);
+    public void modifyItem(String oldItem, String ItemName){
+        int position = findItem(oldItem);
+        if(position>=0){
+            modifyItem(position,ItemName);
+        }
+    }
+
+    private void modifyItem(int position, String newItem){
+        groveryList.set(position, newItem);
         System.out.println("Grocery item " +(position+1)+" has bee modified");
     }
 
-    public void removeItem(int position){
-        String theItem = groveryList.get(position);
-        groveryList.remove(position);
-        System.out.println("the "+theItem+ " has been deleted");
+    public void removeItem(String itemName){
+        int position = findItem(itemName);
+        if(position>=0){
+            removeItem(position);
+        }
     }
 
-    public String findItem(String searchItem){
+    private void removeItem(int position){
+        groveryList.remove(position);
 
-        //boolean exists = groveryList.contains(searchItem);
-        int position = groveryList.indexOf(searchItem);
+    }
+
+    public int findItem(String searchItem) {
+
+        return groveryList.indexOf(searchItem);
+    }
+
+    public boolean onFile(String searchItem){
+        int position = findItem(searchItem);
         if(position>=0){
-            return groveryList.get(position);
+            return true;
         }
-        else{
-            System.out.println("No such an item");
-        }
-        return null;
+        return false;
     }
 }
