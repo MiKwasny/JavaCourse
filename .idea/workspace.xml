@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48862a60-d100-4a72-8f48-f797ab412db1" name="Default" comment="" />
+    <list default="true" id="48862a60-d100-4a72-8f48-f797ab412db1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Dimensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Motherboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Resolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Bed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Bedroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Ceiling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Lamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation/EnhancedPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation_Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation_Exercise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation_Exercise/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation_Exercise/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Polymorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Polymorphism/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Polymorphism_Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Polymorphism_Exercise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/DeluxeBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/HealthyBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Arrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Arrays_Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Arrays_Exercise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Branch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList/GroceryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList/HowToResizeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList/HowToResizeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_MinElementChallenge_and_ReverseArrayChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_MinElementChallenge_and_ReverseArrayChallenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_MinElementChallenge_and_ReverseArrayChallenge/MainReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_MinElementChallenge_and_ReverseArrayChallenge/MainReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_MinElementChallenge_and_ReverseArrayChallenge/MyOwnMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_MinElementChallenge_and_ReverseArrayChallenge/MyOwnMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ReferenceTypes_vs_ValueTypes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ReferenceTypes_vs_ValueTypes/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,147 +58,55 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1798265727">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.15" value="3" />
-          <entry key="project.open.time.17" value="2" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="58" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="58" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="12" />
-          <entry key="java" value="14223" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="14223" />
-          <entry key="PLAIN_TEXT" value="12" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="637">
+              <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Demo.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Customer.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-              <folding>
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Bank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-476">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Branch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-              <folding>
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2091">
               <caret line="125" column="9" selection-start-line="125" selection-start-column="9" selection-end-line="125" selection-end-column="9" />
@@ -158,7 +115,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/Contact.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -186,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_Polymorphism_Exercise/Holden.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Main.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/Hamburger.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/Main.java" />
@@ -237,14 +193,14 @@
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Customer.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Main.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Demo.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Demo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -252,7 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,7 +224,7 @@
               <item name="JavaCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaCourse_Section_9_LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaCourse_Section_9_Interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCourse" type="b2602c69:ProjectViewProjectNode" />
@@ -280,10 +235,11 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549468372225" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549483204007" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BP Automation" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -311,61 +267,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Demo">
-    <configuration default="true" type="Applet" factoryName="Applet">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_9_LinkedList.Demo" />
+      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_8_LinkedList.Demo" />
       <module name="JavaCourse" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaCourse_Section_9_LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_9_ListAndArrayList_Challenge.Main" />
-      <module name="JavaCourse" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaCourse_Section_9_ListAndArrayList_Challenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge.Main" />
-      <module name="JavaCourse" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_9_LinkedList.Main" />
-      <module name="JavaCourse" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaCourse_Section_9_LinkedList.*" />
+          <option name="PATTERN" value="JavaCourse_Section_8_LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,12 +288,54 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_9_Autoboxing_and_Unboxing.Main" />
+      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_8_Autoboxing_and_Unboxing.Main" />
       <module name="JavaCourse" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaCourse_Section_9_Autoboxing_and_Unboxing.*" />
+          <option name="PATTERN" value="JavaCourse_Section_8_Autoboxing_and_Unboxing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_8_LinkedList.Main" />
+      <module name="JavaCourse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCourse_Section_8_LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_8_ListAndArrayList_Challenge.Main" />
+      <module name="JavaCourse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCourse_Section_8_ListAndArrayList_Challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge.Main" />
+      <module name="JavaCourse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,12 +350,13 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -407,11 +364,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -447,10 +404,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.51859957" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -468,6 +425,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -478,109 +436,93 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/DeluxeBurger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/HealthyBurger.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/HealthyBurger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/Hamburger.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/Hamburger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
           <caret line="53" column="45" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation/EnhancedPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation/EnhancedPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Polymorphism/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Polymorphism/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/PC.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/PC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Motherboard.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Motherboard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Monitor.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Monitor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation/Player.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="1304" column="18" selection-start-line="1304" selection-start-column="18" selection-end-line="1304" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Main.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Lamp.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Lamp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Ceiling.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Ceiling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="12" column="75" lean-forward="true" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
@@ -588,14 +530,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sss/single.java" />
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Bedroom.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Bedroom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Bed.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Bed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -614,7 +556,7 @@
     <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Polymorphism_Exercise/sssss/main.java" />
     <entry file="file://$PROJECT_DIR$/src/sss/superParent.java" />
     <entry file="file://$PROJECT_DIR$/src/sss/superChild.java" />
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Polymorphism_Exercise/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Polymorphism_Exercise/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1292">
           <caret line="108" column="40" selection-start-line="108" selection-start-column="40" selection-end-line="108" selection-end-column="40" />
@@ -629,35 +571,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Arrays/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Arrays/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Arrays_Exercise/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Arrays_Exercise/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_ReferenceTypes_vs_ValueTypes/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_ReferenceTypes_vs_ValueTypes/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_MinElementChallenge_and_ReverseArrayChallenge/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_MinElementChallenge_and_ReverseArrayChallenge/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_MinElementChallenge_and_ReverseArrayChallenge/MyOwnMain.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_MinElementChallenge_and_ReverseArrayChallenge/MyOwnMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
@@ -667,21 +609,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_MinElementChallenge_and_ReverseArrayChallenge/MainReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_MinElementChallenge_and_ReverseArrayChallenge/MainReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList/HowToResizeArray.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList/HowToResizeArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList/GroceryList.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList/GroceryList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
@@ -693,7 +635,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="45" column="9" selection-start-line="14" selection-start-column="8" selection-end-line="45" selection-end-column="9" />
@@ -703,107 +645,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/MobilePhone.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/MobilePhone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Customer.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Branch.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Bank.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2091">
           <caret line="125" column="9" selection-start-line="125" selection-start-column="9" selection-end-line="125" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/Contact.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Customer.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Branch.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="637">
+          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Bank.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
