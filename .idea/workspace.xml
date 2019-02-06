@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48862a60-d100-4a72-8f48-f797ab412db1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/ITelephone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Dimensions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Motherboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Resolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Composition/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Composition/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Bed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Bedroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Ceiling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Lamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_CompositionExercises/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation/EnhancedPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation_Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation_Exercise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Encapsulation_Exercise/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation_Exercise/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Polymorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Polymorphism/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_Polymorphism_Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_Polymorphism_Exercise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/DeluxeBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Arrays/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Arrays_Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Arrays_Exercise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Branch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Autoboxing_and_Unboxing_chllenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_Autoboxing_and_Unboxing_chllenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList/GroceryList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList/HowToResizeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList/HowToResizeArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ListAndArrayList_Challenge/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList_Challenge/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_MinElementChallenge_and_ReverseArrayChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_MinElementChallenge_and_ReverseArrayChallenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_MinElementChallenge_and_ReverseArrayChallenge/MainReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_MinElementChallenge_and_ReverseArrayChallenge/MainReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_MinElementChallenge_and_ReverseArrayChallenge/MyOwnMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_MinElementChallenge_and_ReverseArrayChallenge/MyOwnMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_ReferenceTypes_vs_ValueTypes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_8_ReferenceTypes_vs_ValueTypes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="637">
-              <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -90,8 +46,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="136">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/ITelephone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/DeskPhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#877#878#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,6 +111,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -143,9 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_CompositionExercises/Main.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/Hamburger.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/Main.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/DeluxeBurger.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_XMaster_Challenge/HealthyBurger.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_Arrays/Main.java" />
@@ -194,11 +175,14 @@
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Main.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_LinkedList/Demo.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Demo.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/ITelephone.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/DeskPhone.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -239,7 +223,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549483204007" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549484279860" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BP Automation" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -404,10 +388,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.51859957" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -437,27 +421,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/HealthyBurger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_XMaster_Challenge/Hamburger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="45" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Encapsulation/EnhancedPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_7_Polymorphism/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -694,14 +657,44 @@
     <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="637">
-          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/Gearbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/ITelephone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/DeskPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
