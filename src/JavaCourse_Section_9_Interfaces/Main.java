@@ -7,6 +7,12 @@ public class Main {
         TimPhone.powerOn();
         TimPhone.callPhone(12345);
         TimPhone.answer();
+
+        TimPhone = new MobilePhone(12345);
+
+        TimPhone.powerOn();
+        TimPhone.callPhone(12345);
+        TimPhone.answer();
     }
 
 }
