@@ -16,6 +16,13 @@ public class Main {
         loadObject(michas);
         System.out.println(michas);
 
+        ISaveable werewolf = new Monster("Werewolf",200,100);
+        //Nie dziala: werewolf.setStrenght(); ale mozna casting:
+        ((Monster)werewolf).setStrenght(100);
+        System.out.println(werewolf);
+        savedObject(werewolf);
+
+
     }
 
     public static ArrayList<String> readValues() {
