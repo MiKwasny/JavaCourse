@@ -19,6 +19,7 @@ public class Main {
         Team<SoccerPlayer> soccerTeam = new Team<>("lalala");
         soccerTeam.addPlayer(mat);
 
+
         Team<FootBallPlayer> hawthorn = new Team<>("Hawtorn");
         Team<FootBallPlayer> fremantle = new Team<>("Freemantle");
 
@@ -26,7 +27,11 @@ public class Main {
         hawthorn.matchResult(adelaideCrows,3,8);
 
         adelaideCrows.matchResult(fremantle,2,1);
-        adelaideCrows.matchResult(baseBallTeam,1,1);
+        //adelaideCrows.matchResult(baseBallTeam,1,1);
+
+        System.out.println("Rankings: ");
+        System.out.println(adelaideCrows.getName() +": "+ adelaideCrows.ranking());
+        System.out.println(adelaideCrows.compareTo(hawthorn));
     }
 
 }
