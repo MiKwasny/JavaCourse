@@ -30,4 +30,5 @@ public class Main {
 
 
     }
+    public void lol(){}
 }

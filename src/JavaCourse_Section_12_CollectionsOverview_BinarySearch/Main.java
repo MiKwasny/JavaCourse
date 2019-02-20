@@ -11,8 +11,8 @@ public class Main {
 //            System.out.println("Sit taken");
 //        }
 //
-        List<Theatre.Seat> seatCopy = new ArrayList<theatre.seats>();
-        printList(seatCopy);
+        //List<Theatre.Seat> seatCopy = new ArrayList<theatre.seats>();
+        //printList(seatCopy);
 
  }
 
