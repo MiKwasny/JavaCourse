@@ -30,6 +30,8 @@ public class MapClass {
 
         System.out.println(map.get("Lisp"));
 
+        //map.remove("Lisp");
+
         if(map.containsKey("Java")){
             System.out.println("java here!");
         }else{
@@ -37,6 +39,15 @@ public class MapClass {
         }
 
         System.out.println("===========================================================");
+
+        //It is printing value before replace
+        if(map.replace("Lisp","lolex in this place", "replaced text")){
+            System.out.println("Lisp replaced!!!!!!!!!!!!!!!!!!");
+        }else{
+            System.out.println("Lisp was not replaced!!!!!!");
+        }
+        //it is printing null because we had not previous key/value
+        System.out.println(map.replace("Basic69", "this will not be added"));
 
         for(String key:map.keySet()){
             System.out.println(key +" "+map.get(key));
@@ -48,5 +59,7 @@ public class MapClass {
         }else{
             System.out.println("Python value/pair not found");
         }
+
+
     }
 }
