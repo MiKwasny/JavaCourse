@@ -98,5 +98,17 @@ public class Main {
         }
 
 
+        HeavenlyBody pluto = new HeavenlyBody("Pluto", 842);
+        planets.add(pluto);
+
+        for(HeavenlyBody planet : planets){
+            System.out.println(planet.getName() +": "+ planet.getOrbintalPeriod());
+        }
+
+        Object o = new Object();
+        o.equals(o);
+        "pluto".equals("");
+
+
     }
 }

@@ -45,7 +45,7 @@ public class Main {
 
         }
     }
-    public static void printInstructions(){
+    public static void printInstructions(){//*[@class='featured box']//*[Text()='as']
         System.out.println("\nPress");
         System.out.println("\t 0 - Intructions");
         System.out.println("\t 1 - Print");
