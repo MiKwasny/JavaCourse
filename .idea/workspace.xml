@@ -20,44 +20,45 @@
     <session id="1798265727">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.15" value="3" />
-          <entry key="project.open.time.16" value="4" />
-          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.15" value="5" />
+          <entry key="project.open.time.16" value="5" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="5" />
-          <entry key="java" value="12792" />
+          <entry key="dummy" value="17" />
+          <entry key="java" value="15137" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12792" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="JAVA" value="15137" />
+          <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="73" />
+          <entry key="java" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="73" />
+          <entry key="JAVA" value="87" />
         </counts>
       </usages-collector>
     </session>
@@ -65,30 +66,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/HeavenlyBody.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_LinkedHashSet_LinkedHashMap/StockItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+            <state relative-caret-position="170">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#1321#1322#0" expanded="true" />
+                <element signature="e#1360#1361#0" expanded="true" />
+                <element signature="e#1704#1705#0" expanded="true" />
+                <element signature="e#1759#1760#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_Maps/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -121,16 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_InnerClasses/Main.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_AbstractClasses/Dog.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_Interfaces/ITelephone.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_AbstractClasses/CanFly.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_AbstractClasses/Parrot.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_AbstractClasses/Main.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_AbstractClasses/Animal.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_9_AbstractClasses/BIrd.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_10_GenericsClass/Player.java" />
-        <option value="$PROJECT_DIR$/src/JavaCourse_Section_10_GenericsClass/BaseballPlayer.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_10_GenericsClass/FootBallPlayer.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_10_GenericsClass/SoccerPlayer.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_10_GenericsClass/Main.java" />
@@ -172,12 +155,22 @@
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_8_ListAndArrayList/Main.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Main.java" />
         <option value="$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/HeavenlyBody.java" />
+        <option value="$PROJECT_DIR$/src/CVVGenerator/CVV2Generator.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Challenge.java" />
+        <option value="$PROJECT_DIR$/src/CVVGenerator/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/DogMain.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Labrador.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Dog.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/SetMain.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Challenge/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_12_SortedCollections/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaCourse_Section_12_LinkedHashSet_LinkedHashMap/StockItem.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-605" />
+    <option name="y" value="158" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -188,8 +181,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,13 +199,7 @@
               <item name="JavaCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaCourse_Section_8_ListAndArrayList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaCourse_Section_12_SetsAndHashSets" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaCourse_Section_12_LinkedHashSet_LinkedHashMap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCourse" type="b2602c69:ProjectViewProjectNode" />
@@ -225,7 +212,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552925914248" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555079869057" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BP Automation" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -257,20 +244,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.SetMain">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_12_Maps.AdventureGame.Main" />
+    <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_12_SetsAndHashSets.DogMain" />
       <module name="JavaCourse" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaCourse_Section_12_Maps.AdventureGame.*" />
+          <option name="PATTERN" value="JavaCourse_Section_12_SetsAndHashSets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,7 +265,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_12_SetsAndHashSets.Main" />
       <module name="JavaCourse" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -292,27 +279,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_12_CollectionsListMethods.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_12_Maps.Challenge.Main" />
       <module name="JavaCourse" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaCourse_Section_12_CollectionsListMethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_12_ComparableAndComparator.Main" />
-      <module name="JavaCourse" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaCourse_Section_12_ComparableAndComparator.*" />
+          <option name="PATTERN" value="JavaCourse_Section_12_Maps.Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,6 +300,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaCourse_Section_12_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCourse_Section_12_SetsAndHashSets.SetMain" />
+      <module name="JavaCourse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCourse_Section_12_SetsAndHashSets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,19 +351,16 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (6)" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.MapClass" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.DogMain" />
+      <item itemvalue="Application.SetMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.SetMain" />
+        <item itemvalue="Application.DogMain" />
         <item itemvalue="Application.MapClass" />
-        <item itemvalue="Application.Main (6)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -394,10 +378,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.282516" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29850745" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -430,83 +414,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_10_GenericsClass/BaseballPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_10_GenericsClass/FootBallPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_10_GenericsClass/SoccerPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_9_AbstractClasses/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="314" column="26" selection-start-line="314" selection-start-column="26" selection-end-line="314" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_10_GenericsClass/Team.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_10_GenericsClass/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_LinkedList/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_8_ReferenceTypes_vs_ValueTypes/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_11_AccessModifiers/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -704,30 +611,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/ssss.java" />
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_Maps/AdventureGame/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_Maps/Challenge/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_Maps/AdventureGame/Location.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_Maps/Challenge/Location.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_Maps/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -742,16 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="109" column="20" lean-forward="true" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,10 +667,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_Maps/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CVVGenerator/CVV2Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="73" column="51" lean-forward="true" selection-start-line="73" selection-start-column="51" selection-end-line="73" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CVVGenerator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+          <folding>
+            <element signature="e#0#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/HeavenlyBody.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        <state relative-caret-position="714">
+          <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#464#465#0" expanded="true" />
@@ -797,6 +708,98 @@
             <element signature="e#665#666#0" expanded="true" />
             <element signature="e#713#714#0" expanded="true" />
             <element signature="e#766#767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/ChallengePro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/SetMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Labrador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="7" selection-start-line="8" selection-start-column="6" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/DogMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="109" column="20" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Challenge/SetChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SetsAndHashSets/Challenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_SortedCollections/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCourse_Section_12_LinkedHashSet_LinkedHashMap/StockItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#1321#1322#0" expanded="true" />
+            <element signature="e#1360#1361#0" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#1759#1760#0" expanded="true" />
           </folding>
         </state>
       </provider>

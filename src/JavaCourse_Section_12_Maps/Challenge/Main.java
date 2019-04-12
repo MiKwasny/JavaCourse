@@ -1,4 +1,4 @@
-package JavaCourse_Section_12_Maps.AdventureGame;
+package JavaCourse_Section_12_Maps.Challenge;
 
 import java.util.HashMap;
 import java.util.Map;
