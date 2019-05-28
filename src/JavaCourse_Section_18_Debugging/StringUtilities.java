@@ -5,7 +5,15 @@ public class StringUtilities {
     private int charsAdded = 0;
 
     public void addChar(StringBuilder sBuilder, char c){
-        this.sBuilder.append(c);
+        sBuilder.append(c);
         charsAdded++;
+    }
+
+    public String upperAndPrefing(String str){
+        String upper = str.toUpperCase();
+        return "Prefix " +upper;
+    }
+    public String addSuffic(String str){
+        return str + "__sufix";
     }
 }
